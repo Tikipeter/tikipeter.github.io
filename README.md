@@ -1,3 +1,3 @@
 For Fen & Fen Light install zips:
 
-`https//:tikipeter.github.io/packages`
+https://tikipeter.github.io/packages
