@@ -1,6 +1,2 @@
-[COLOR red][B]Online Release Version 1.0.52[/B][/COLOR]
-YOU WILL LIKELY HAVE TO REMAKE ANY WIDGETS OR SHORTCUT FOLDERS THAT CONTAIN RANDOM ITEMS AFTER THIS UPDATE.
-- Re-write of Random list handling.
-- Dynamic random list widget naming should be sorted out with this update. It is essential that you read the tip "Handling Random Lists for Dynamic Widget Naming" in Tools->Tips For Use. There is a particular way the widgets must be named if you wish to see the correct list name label on random widgets upon each refresh. It is not essential to do this, but it will enhance the experience of using random widgets.
-- Added ability to view changes to new online release before choosing to install. If you manually check for an update, or have the update action set to 'Prompt', then you will have a chance to view the changelog of the new release before installing it. You can also check the changelog of the new release via Tools->Changelog & Log Utils->Check Online Version Changelog. 
-- Other changes/fixes.
+[COLOR red][B]Online Release Version 1.0.53[/B][/COLOR]
+- No changes
