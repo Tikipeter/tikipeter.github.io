@@ -1,6 +1,4 @@
-[COLOR red][B]Online Release Version 1.0.56/57[/B][/COLOR]
-- Adjustments to shuffle trakt lists functionality.
-- Fixed caching issue for lists made using FenLight's "Discover" method. Caching will be 48 hours instead of 720 hours.
-- Removed setting for "shuffling" the order of Trakt My Lists/Liked Lists. The shuffled lists are now found in Random Lists->Trakt Lists.
+[COLOR red][B]Online Release Version 1.0.58[/B][/COLOR]
+- Added setting Features->Extras->"Default Extras Video Playback Quality". Choose a default quality to play back videos from the Extras menu. Or choose "Choose" to be prompted for quality for each video selected.
+- Changes to Easynews image search functionality.
 - Other changes/fixes.
-- 57: Quick fix.
