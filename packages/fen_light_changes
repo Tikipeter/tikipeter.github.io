@@ -1,3 +1,5 @@
-[COLOR red][B]Online Release Version 1.0.61[/B][/COLOR]
-- Quick fix for pagination when using shuffled Trakt personal lists.
+[COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
+
+[COLOR red][B]Online Release Version 1.0.62[/B][/COLOR]
+- Added "belongs_to_collection" listitem property to movie items. Skins can use this to display whether listitem is part of a collection.
 - Other changes/fixes.
