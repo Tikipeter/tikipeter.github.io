@@ -1,5 +1,6 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
 [COLOR red][B]Online Release Version 1.0.62[/B][/COLOR]
-- Added "belongs_to_collection" listitem property to movie items. Skins can use this to display whether listitem is part of a collection.
+- Added "Open Movie Collections Instead When Available" subsetting to Features->"Open Extras When Selecting". If you enable this and the movie you select is part of a collection, then that collection will be displayed, and the movie selected will be highlighted. This will be instead of opening the Extras window. Selecting the movie again from within the collection results will then open the Extras window.
+- Removed Test Repository support.
 - Other changes/fixes.
