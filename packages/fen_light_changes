@@ -1,9 +1,6 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.64[/B][/COLOR]
-- Removed Settings->Features->"Open Extras When Selecting". Replaced with "Special Open Actions" within same Features tab.
-- Removed "Use Minimal Media Info" setting.
-- Added "More Like This" recommendations to Extras window and context menu of Movies and TV Shows.
-- Added rudimentary support for "Special" episodes. I see no use in including these, as there will almost never be sources for playback. But I had the request so here they are. Also, you will not be able to mark them as watched within Fen Light.
-- Added "guest star" cast members for TV Show episodes. Will include additional cast appearing in that specific episode. Requested.
+[COLOR red][B]Online Release Version 1.0.65[/B][/COLOR]
+- Added "In Trakt Lists" to movie and tvshow context menu. Also in Extras, and also available to make as a button in Extras. This will display Trakt lists that the movie/tvshow belong to. 100 max lists will show. You will need to re-set your Extras menu settings after this update as control ids have changed for the second time in as many updates.
+- Added "Show Special Episodes When Available" to Content->Content.
 - Other changes/fixes.
