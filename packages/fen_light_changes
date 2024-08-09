@@ -1,6 +1,4 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.65[/B][/COLOR]
-- Added "In Trakt Lists" to movie and tvshow context menu. Also in Extras, and also available to make as a button in Extras. This will display Trakt lists that the movie/tvshow belong to. 100 max lists will show. You will need to re-set your Extras menu settings after this update as control ids have changed for the second time in as many updates.
-- Added "Show Special Episodes When Available" to Content->Content.
-- Other changes/fixes.
+[COLOR red][B]Online Release Version 1.0.66[/B][/COLOR]
+- Couple of quick fixes.
