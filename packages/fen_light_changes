@@ -1,13 +1,4 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.67/68[/B][/COLOR]
-- Added "People" option to Favorites to go along with Movies and TV Shows.
-- Added spoken language info to Extras. Metacache will need to be cleared to see this.
-- Added "Close All Dialogs" as a button option for Extras. This will close all open Extras (and People) windows currently in the window stack.
-- Added indicator for lists within "In Trakt Lists" in Extras window when you have already Liked that list.
-- Added ability to Like/Unlike a list in "In Trakt Lists" in Extras window.
-- Added "Settings->Content->Content->Set MPAA Region". Set this to your desired region for this information.
-- Added "Random" as a sort option when making a Discover list. Will provide 20 results from the random algorithm.
-- Changed the algorithm slightly for fetching random items for the random lists. Should be just as good, but a little easier on TMDb.
-- Fixed Discover lists that include the "Released Only" parameter not updating with new content. Unfortunately, any Discover list made with this param that you want to have update daily will need to be remade.
-- Other changes/fixes.
+[COLOR red][B]Online Release Version 1.0.69[/B][/COLOR]
+- Quick fix for Trakt Lists Liking/Unliking in Extras window.
