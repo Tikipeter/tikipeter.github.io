@@ -1,4 +1,7 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.71[/B][/COLOR]
-- Quick fix for choosing Easynews language filters.
+[COLOR red][B]Online Release Version 1.0.72[/B][/COLOR]
+- Added "Single Episode Lists" settings category. Some re-organizing of settings.
+- Added Settings->Content->Widgets->"Refresh Widgets on Timer". Enable this, set a timer value, and FenLight will refresh your widgets when the timer is due. Off by default. Also added boolean to enable/disable Notifications when this occurs. If you use "random" widgets (made using the various methods in Fen Light) then you will need to set a value here or else the random widgets will only show fresh random content on each Kodi start.
+- Bifurcated (thanks for the new word) Minimum Size setting into movies/episodes for filtering results.
+- Other changes/fixes.
