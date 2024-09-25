@@ -1,6 +1,8 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.78/79/80[/B][/COLOR]
-- Added "AI Enhanced/Upscaled Files Filter" to Settings->Results->Sorting and Filtering. Set to Include, Exclude, Prefer (Autoplay).
-- Fix for Trakt liked lists not updating with new content. New content will be checked for every 24 hours.
+[COLOR red][B]Online Release Version 1.0.81[/B][/COLOR]
+- Added 'Anime' section to Root Menu (Main Menu). To add this, context menu on any current Root Menu item->Check for New Menu Items. Add the Anime menu item where you please. If this doesn't work, then select Context Menu->Restore Menu.
+- Anime is also included in the "Random Lists" menu, where the Anime lists can be randomized just like the Movie and TV Show lists.
+- Added Settings->Content->General->"Watched (Still Airing) TV Shows Location". Select from "Watched", "In Progress" or "Both". This decides which menu fully watched, but still airing, TV Shows will be included in. Default is "Watched" (which is the current behavior).
+- Excluded some genres from the "Popular" TV Shows list. Atleast until TMDb get that list sorted out. Clear the Lists cache to get slightly better results there.
 - Other changes/fixes.
