@@ -1,8 +1,9 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.81/82[/B][/COLOR]
-- Added 'Anime' section to Root Menu (Main Menu). To add this, context menu on any current Root Menu item->Check for New Menu Items. Add the Anime menu item where you please. If this doesn't work, then select Context Menu->Restore Menu.
-- Anime is also included in the "Random Lists" menu, where the Anime lists can be randomized just like the Movie and TV Show lists.
-- Added Settings->Content->General->"Watched (Still Airing) TV Shows Location". Select from "Watched", "In Progress" or "Both". This decides which menu fully watched, but still airing, TV Shows will be included in. Default is "Watched" (which is the current behavior).
-- Excluded some genres from the "Popular" TV Shows list. Atleast until TMDb get that list sorted out. Clear the Lists cache to get slightly better results there.
+[COLOR red][B]Online Release Version 1.0.83[/B][/COLOR]
+- Added a favorites entry for Anime. All shows favorited from within the Anime section will be saved as an Anime favorite, rather than a TV Show favorite.
+- Added "Anime" to the Search menu. Will exclusively search for Anime TV Shows. Can be added to the Anime section if preferred using the menu edit system.
+- Added Settings->Content->General->Include Unaired Media in Trakt Watchlists. On by default. Disable this to hide Movies/TV Shows in your Trakt Watchlists that have yet to air.
+- Lowered caching times of some lists. Raised caching times of some others.
+- Reduced to 12 hours the cached contents of Trakt "Liked" lists.
 - Other changes/fixes.
