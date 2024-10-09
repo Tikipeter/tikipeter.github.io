@@ -1,9 +1,8 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.83/84[/B][/COLOR]
-- Added a favorites entry for Anime. All shows favorited from within the Anime section will be saved as an Anime favorite, rather than a TV Show favorite.
-- Added "Anime" to the Search menu. Will exclusively search for Anime TV Shows. Can be added to the Anime section if preferred using the menu edit system.
-- Added Settings->Content->General->Include Unaired Media in Trakt Watchlists. On by default. Disable this to hide Movies/TV Shows in your Trakt Watchlists that have yet to air.
-- Lowered caching times of some lists. Raised caching times of some others.
-- Reduced to 12 hours the cached contents of Trakt "Liked" lists.
+[COLOR red][B]Online Release Version 1.0.85[/B][/COLOR]
+- Added Settings->Content->General->"Service used for Because You Watched". Choose which service provides recommendations for the Because You Watched menus. Options are Recommended (TMDb) or More Like This (IMDb). TMDb by default.
+- Added "Because You Watched" section to the Random menu. This will take random media from up to the last 5 movies/episodes you have watched, select one of those at random, and display recommended media from that watched item.
+- Added Settings->Content->General->"Seeds used for Because You Watched Random". Choose how much previously watched media is used for recommendations for the Because You Watched Random menu. You can choose from the previous 1 to 5 watched items as the list from which the seed will be added.
+- Partial fix for Parental Guidance in Extras window. IMDb look to be in the process of changing this on their website, so if the new layout loads, it will still not work. Clear Main Cache to clear any null values for this.
 - Other changes/fixes.
