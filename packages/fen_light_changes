@@ -1,8 +1,7 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.85[/B][/COLOR]
-- Added Settings->Content->General->"Service used for Because You Watched". Choose which service provides recommendations for the Because You Watched menus. Options are Recommended (TMDb) or More Like This (IMDb). TMDb by default.
-- Added "Because You Watched" section to the Random menu. This will take random media from up to the last 5 movies/episodes you have watched, select one of those at random, and display recommended media from that watched item.
-- Added Settings->Content->General->"Seeds used for Because You Watched Random". Choose how much previously watched media is used for recommendations for the Because You Watched Random menu. You can choose from the previous 1 to 5 watched items as the list from which the seed will be added.
-- Partial fix for Parental Guidance in Extras window. IMDb look to be in the process of changing this on their website, so if the new layout loads, it will still not work. Clear Main Cache to clear any null values for this.
+[COLOR red][B]Online Release Version 1.0.86[/B][/COLOR]
+- FIXED UPDATER BUG. IT IS SAFE TO UPDATE TO THIS VERSION. IF YOU ARE ON VERSION 1.0.85, THEN DOWNGRADE FIRST BEFORE UPDATING.
+- Fixed searching Trakt user lists.
+- Fixed little filter error in fetching MPAA ratings.
 - Other changes/fixes.
