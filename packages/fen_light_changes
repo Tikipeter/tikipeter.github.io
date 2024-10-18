@@ -1,7 +1,6 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.86[/B][/COLOR]
-- FIXED UPDATER BUG. IT IS SAFE TO UPDATE TO THIS VERSION. IF YOU ARE ON VERSION 1.0.85, THEN DOWNGRADE FIRST BEFORE UPDATING.
-- Fixed searching Trakt user lists.
-- Fixed little filter error in fetching MPAA ratings.
+[COLOR red][B]Online Release Version 1.0.87[/B][/COLOR]
+- Fixed incorrect aired episode totals in seasons container.
+- Optimizations to service procedures to help Fen Light start quicker on Kodi opening.
 - Other changes/fixes.
