@@ -1,6 +1,6 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.90[/B][/COLOR]
+[COLOR red][B]Online Release Version 1.0.90/91[/B][/COLOR]
 - Added Settings->Results->Sorting & Filtering->"Custom Autoplay Sort To Top". This will allow you to set 5 different video/audio characteristics that you wish to see brought to the top of the sources list for autoplay. Things like "HEVC" or "DOLBY VISION" etc. These will be weighted on importance, with the higher the position in the list of 5 the higher the importance when sorting to the top.
 - As a result, the other filtering options which previously featured an "INCLUDE, EXCLUDE, PREFER (AUTOPLAY)" setting have been reset, and the "PREFER (AUTOPLAY)" option has been removed.
 - Other changes/fixes.
