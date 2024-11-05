@@ -1,6 +1,10 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.90/91[/B][/COLOR]
-- Added Settings->Results->Sorting & Filtering->"Custom Autoplay Sort To Top". This will allow you to set 5 different video/audio characteristics that you wish to see brought to the top of the sources list for autoplay. Things like "HEVC" or "DOLBY VISION" etc. These will be weighted on importance, with the higher the position in the list of 5 the higher the importance when sorting to the top.
-- As a result, the other filtering options which previously featured an "INCLUDE, EXCLUDE, PREFER (AUTOPLAY)" setting have been reset, and the "PREFER (AUTOPLAY)" option has been removed.
+[COLOR red][B]Online Release Version 1.0.92[/B][/COLOR]
+- [CONTEXT MENU->OPTIONS->ASSIGN AN EPISODE GROUP TO...] Added option for TV Shows to assign an episode group from TMDb. These episode groups cover alternate season and episode orders based on other parameters. For example, it might be possible to set the episode order for a TV Show based on it's streaming aired order, or it's order from another service such as TVDb. These Custom Episode Groups will not change how the episodes are arranged within Fen Light, rather the information from them will be used when scraping for results for playback. This feature may be particularly useful when dealing with Anime content, but can be set for any TV Show.
+- Added Settings->Results->General->"Retry With Custom Episode Group When No Results". Enable this and Fen Light will rescrape using a custom episode group if no results are found. If a custom episode group is already assigned to the TV Show (above for details), then a rescrape will occur using instead the default season/episode values instead.
+- Added Settings->General->General->"Limit Concurrent Threads". Use this if your device is erroring by not allowing python to start new threads once a certain threshold is reached. There is a hard limit of 60 if this is not enabled and set to a user preference. Min/max settings are 10/300.
+- Temporary workaround for the RD "no cached results" error currently randomly affecting calls to check RD's cache. Will be removed once their API is fixed for this endpoint.
+- Fixed "Parental Guide" in Extras window. To get fresh results (empty results are cached), clear IMDb Database and restart Kodi.
+- Improved trailer choice for metadata. Clear metadata cache for benefits.
 - Other changes/fixes.
