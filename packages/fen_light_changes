@@ -1,10 +1,6 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 1.0.94[/B][/COLOR]
-NOTE: THERE ARE NO FIXES IN THIS RELEASE FOR REAL DEBRID INTEGRATION.
-- Added info for the unwatched count for single episode lists. This only shows for skins that support this.
-- Added Settings->Single Episode Lists->Trakt Calendar->"Flatten TV Shows Airing on Same Day". Use this to limit single episode lists to only display the first episode when multiple episodes are released on the same day.
-- Added ability to manually enter view type ids if needed. Enable "Control Viewtypes Within Addon" in Settings->Content->General, then you can enable "Manually Enter Viewtype Values" and enter the viewtype ids.
-- Fixed progress status on episodes when opening all instead of seasons.
-- Better detection of best instance of video for Official, first released trailer.
-- Other changes/fixes.
+[COLOR red][B]Online Release Version 2.0.01[/B][/COLOR]
+- Fixed RD compatibility.
+- Removed update service.
+- Final release of this addon. So long all.
