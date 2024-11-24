@@ -1,6 +1,8 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 2.0.01[/B][/COLOR]
-- Fixed RD compatibility.
-- Removed update service.
-- Final release of this addon. So long all.
+[COLOR red][B]Online Release Version 2.0.02[/B][/COLOR]
+- Oop. Spoke too soon.
+- Fix for browsing/downloading pack results through RD.
+- Quick fix for some media causing error when saving to favorites.
+- Quick fix to correct sequential playback.
+- Final release of this addon. Hopefully. So long all.
