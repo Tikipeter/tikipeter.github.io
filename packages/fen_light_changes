@@ -1,5 +1,6 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 2.0.03[/B][/COLOR]
-- Fixed Reviews in Extras Menu. Clear IMDb cache and restart Kodi to refresh new data.
-- Added some to the Years menu.
+[COLOR red][B]Online Release Version 2.0.04[/B][/COLOR]
+- AD fix.
+- Reinstate Upload Manager, but I have disabled the Rollback Feature.
+- Added settings General->Manage Addon Updates... "Github Username" & "Github Repo Address". In these, you can enter the username and repo address of another dev who may wish to push a Fen Light release. Devs will need to check the code within updater.py and make sure their repo is structured correctly. Basically repo_name/packages/CONTENT.
