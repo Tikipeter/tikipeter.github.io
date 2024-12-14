@@ -1,6 +1,7 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
 [COLOR red][B]Online Release Version 2.0.04[/B][/COLOR]
-- AD fix.
-- Reinstate Upload Manager, but I have disabled the Rollback Feature.
-- Added settings General->Manage Addon Updates... "Github Username" & "Github Repo Address". In these, you can enter the username and repo address of another dev who may wish to push a Fen Light release. Devs will need to check the code within updater.py and make sure their repo is structured correctly. Basically repo_name/packages/CONTENT.
+- Added OffCloud suppport. Big thanks to kodifitzwell who allowed me to steal a large portion of his code.
+- Added Easydebrid suppport. Big thanks to kodifitzwell who allowed me to steal a large portion of his code.
+- Added TorBox suppport. Big thanks to kodifitzwell who allowed me to steal a large portion of his code. Big thanks also to [B]DaleAlanC[/B] for lending me their TorBox account.
+- Other changes/fixes.
