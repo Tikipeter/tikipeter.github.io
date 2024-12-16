@@ -1,7 +1,9 @@
 [COLOR darkgoldenrod]GOD BLESS HIM AND KEEP HIM SAFE.[/COLOR]
 
-[COLOR red][B]Online Release Version 2.0.05[/B][/COLOR]
-- Added OffCloud suppport. Big thanks to kodifitzwell who allowed me to steal a large portion of his code.
-- Added Easydebrid suppport. Big thanks to kodifitzwell who allowed me to steal a large portion of his code.
-- Added TorBox suppport. Big thanks to kodifitzwell who allowed me to steal a large portion of his code. Big thanks also to [B]DaleAlanC[/B] for lending me their TorBox account.
+[COLOR red][B]Online Release Version 2.0.06[/B][/COLOR]
+- Fixed Results Highlight Color bug.
+- Added TorBox highlight color choice.
+- Fixed AI Upscaled/Enhanced filter not working. You will need to re-set this if you want to Exclude these results.
+- Fixed Offcloud login accepting incorrect credentials.
+- Fixed "Browse" in single episode list to honor flatten seasons setting.
 - Other changes/fixes.
